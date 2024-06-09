@@ -2,7 +2,7 @@
 I'm Simen, 
 25 years old, on my spare time I play video games, lift slightly heavy things, and enjoy a good book or two.
 
-Decided to up my geek level so I could get a job within IT, and Frontend development seemed like a fun place to start, so here we are!
+Decided to up my geek level so I could try getting a job within IT, and Frontend development seemed like a fun place to start, so here we are!
 
 You can reach me on:
 
